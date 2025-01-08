@@ -1,2 +1,2 @@
 # Acculogic-Demo
-This is my initial project 
+This is my initial start 
